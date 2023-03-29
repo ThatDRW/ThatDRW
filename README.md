@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ThatDRW, a self-taught programmer who started fiddling with programming at age 7.
 - 👀 I’m interested in finally turning my hobby into a career as a professional software developer.
-- 🌱 I’m currently learning more about the wonders of Python.
+- 🌱 I’m currently developing enterprise skills in Java and Angular.
+- 👨‍🎓 Python PCEP-30-02 and PCAP-31-03 Certified.
 - 💞️ I’m looking to collaborate on projects where I feel like I can contribute to something wonderful!
 - 📫 How to reach me ... For now, through GitHub ...
 
